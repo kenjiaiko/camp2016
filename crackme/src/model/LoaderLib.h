@@ -1,0 +1,1 @@
+int CreateExeProcess(LPVOID, DWORD, PTCHAR);

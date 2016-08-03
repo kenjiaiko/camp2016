@@ -1,0 +1,1 @@
+VOID ReverseData(TCHAR *, BYTE *, DWORD, BOOL);
